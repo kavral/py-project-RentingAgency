@@ -1,0 +1,57 @@
+{
+  "properties": [
+    {
+      "property_id": "PROP-0001",
+      "address": "42 Oak Street",
+      "city": "Almaty",
+      "bedrooms": 2,
+      "monthly_rent": 185000.0,
+      "is_available": true,
+      "description": "Near metro"
+    },
+    {
+      "property_id": "PROP-0002",
+      "address": "15 River View",
+      "city": "Astana",
+      "bedrooms": 3,
+      "monthly_rent": 245000.0,
+      "is_available": true,
+      "description": "Balcony, parking"
+    },
+    {
+      "property_id": "PROP-0003",
+      "address": "8 Studio Lane",
+      "city": "Almaty",
+      "bedrooms": 1,
+      "monthly_rent": 120000.0,
+      "is_available": true,
+      "description": "Furnished studio"
+    },
+    {
+      "property_id": "PROP-0004",
+      "address": "Testing1",
+      "city": "test1",
+      "bedrooms": 1,
+      "monthly_rent": 1000.0,
+      "is_available": true,
+      "description": ""
+    }
+  ],
+  "tenants": [
+    {
+      "tenant_id": "TEN-0001",
+      "full_name": "Aida Nurpeisova",
+      "email": "aida@email.com",
+      "phone": "+77001234567",
+      "credit_score": 720
+    },
+    {
+      "tenant_id": "TEN-0002",
+      "full_name": "Bekzat Karimov",
+      "email": "bek@email.com",
+      "phone": "+77007654321",
+      "credit_score": 580
+    }
+  ],
+  "leases": []
+}

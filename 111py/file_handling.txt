@@ -1,0 +1,3 @@
+File handling in Python includes opening, reading, writing, and closing files.
+The json and csv modules help Python programs work with structured data.
+Always check file paths before saving output.
